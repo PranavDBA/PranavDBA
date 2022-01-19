@@ -5,7 +5,7 @@ Demonstrated history of optimizing application data models for performance, mana
 Extensive experience in designing and administrating high availability (HA) and disaster recovery (DR) solutions between data centers. 
 Strong track record of working in collaboration with engineering teams globally to set and implement standards for database administration across the business.
 
-- 👀 I strongly strong focus on automation and analysis. 
+- 👀 I strongly focus on automation and analysis. 
 - 🌱 Maintains knowledge of industry trends in database systems and alwasy open to next-generation technology 
 
 TECHNICAL PROFICIENCIES
